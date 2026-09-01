@@ -6,3 +6,15 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+#p1 {
+    color:rgb(0, 0, 255);
+}
+#p2 {
+    background-color:red;
+    color: white;
+}
+#s1 {
+    background-color: yellow;
+    color: purple;
+}
