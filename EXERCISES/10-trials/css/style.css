@@ -74,6 +74,7 @@ body {
 
 #s14 {
     font-size: 12px;
+    font-weight: bold;
 }
 
 #s15 {
@@ -82,5 +83,9 @@ body {
 
 #s16 {
     font-size: 24px;
+    font-style: italic;
+}
+
+#s17 {
     font-style: italic;
 }
