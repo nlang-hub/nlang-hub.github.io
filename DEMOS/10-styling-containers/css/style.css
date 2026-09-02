@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#p1 {
+    color: red;
+}
+.shadowed {
+    background-color: lightgray;
+    margin: 24px;
+    padding: 24px;
+
+    box-shadow: 4px 8px 4px gray;
+}
+p {
+    font-family: monospace;
+}
