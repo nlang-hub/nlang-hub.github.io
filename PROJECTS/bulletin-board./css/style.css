@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.post-it {
+    background-color: rgb(215, 205, 58);
+    display: inline-block;
+    margin: 36px;
+    padding: 72px;
+    font-family: copperplate;
+    font-size: 24px;
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    vertical-align: text-top;
+}
+
+.post-it {
+    box-shadow: 0px 16px 8px gray;
+}

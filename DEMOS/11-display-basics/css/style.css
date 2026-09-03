@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+p {
+    background-color: pink;
+}
+span {
+    background-color: cornflowerblue;
+    display: block;
+}
+div {
+    background-color: beige;
+    display: inline;
+}
+.card {
+    background-color: chartreuse;
+    display: inline-block;
+    width: 200px;
+    vertical-align: text-top;
+    margin: 12px;
+    padding: 12px;
+}
