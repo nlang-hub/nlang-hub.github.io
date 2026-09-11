@@ -16,12 +16,12 @@ body {
     padding: 24px;
     text-align: center;
 }
-.dark-container {
-    background-color: #7F0506;
-    padding: 48px 0px;
-}
 .light-container {
     background-color: #C50613;
+    padding: 48px 0px;
+}
+.dark-container {
+    background-color: #7F0506;
     color: white;
 }
 .button {
