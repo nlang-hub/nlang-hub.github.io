@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    max-width: 400px;
+    margin: 0px auto;
+    padding: 24px;
+}
+.light-container {
+    background-color: lightcoral;
+    padding: 48px 0px;
+}
+.dark-container {
+    background-color: rgb(167, 43, 43);
+    color: white;
+}
+.button {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.primary {
+    background-color: blue;
+    color: white;
+    padding: 24px;
+    border-radius: 36px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+.secondary {
+    color: blue;
+    border: 3px solid blue;
+    padding: 24px;
+    border-radius: 36px;
+    font-weight: bold;
+    font-size: 20px;
+}

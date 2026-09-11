@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+    text-align: center;
+}
+.light-container {
+    background-color: #7F0506;
+    padding: 48px 0px;
+}
+.dark-container {
+    background-color: #C50613;
+    color: white;
+}
+.button {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+.primary {
+    background-color: #FFB630;
+    color: white;
+    padding: 24px;
+    border-radius: 36px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+.secondary {
+    color: #FFB630;
+    border: 3px solid #FFB630;
+    padding: 24px;
+    border-radius: 36px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.image {
+    max-width: 500px;
+    border-radius: 5px;
+}
+h1 {
+    color: white;
+    font-size: 72px;
+    font-family: "Carter One", system-ui;
+    margin-top: 0px;
+}
+h3 {
+    padding: 36px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: "Carter One", system-ui;
+}
+p {
+    padding: 72px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+div a {
+    margin-bottom: 24px;
+}
