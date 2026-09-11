@@ -23,6 +23,7 @@ body {
 .dark-container {
     background-color: #7F0506;
     color: white;
+    padding: 48px 0px;
 }
 .button {
     text-decoration: none;
@@ -37,6 +38,7 @@ body {
     font-size: 20px;
     font-weight: bold;
     margin-right: 12px;
+    min-width: 200px;
 }
 .secondary {
     color: #FFB630;
@@ -63,7 +65,7 @@ h3 {
     font-family: "Carter One", system-ui;
 }
 p {
-    padding: 72px;
+    padding: 36px;
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
