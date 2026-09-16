@@ -10,11 +10,32 @@ body {
 #navbar {
     background-color: blue;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #navbar a {
     text-decoration: none;
     color: white;
     padding: 24px;
+}
+
+#navbar img {
+    width: 100px;
+}
+
+#logo-container {
+    margin-right: auto;
+}
+#navbar .cta-button {
+    background-color: white;
+    color: blue;
+    border-radius: 36px;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+    margin-right: 24px;
+    margin-left: 12px;
 }
