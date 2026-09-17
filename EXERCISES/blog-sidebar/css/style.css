@@ -23,7 +23,7 @@ body {
     flex: 2;
 }
 #sidebar {
-    background-color:#f3bc22;
+    background-color: #f3bc22;
     padding: 12px;
     flex: 1;
     height: fit-content;
@@ -37,7 +37,7 @@ body {
     list-style-type: none;
 }
 #sidebar h2 {
-    background-color:#fed460;
+    background-color: #fed460;
     text-align: center;
     border-bottom: 2px solid black;
 }
@@ -47,7 +47,5 @@ body {
 }
 #sidebar li {
     border-bottom: 1px solid black;
-
-
 }
 
