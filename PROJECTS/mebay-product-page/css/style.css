@@ -93,3 +93,27 @@ body {
 h1 {
     margin: 0px;
 }
+#navbar {
+    min-width: max-content;
+    border-bottom: 2px solid lightgray;
+    padding: 12px;
+    font-size: 28px;
+}
+#navbar h1 {
+    text-align: center;   
+}
+#purple {
+    color: purple;
+}
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#yellow {
+    color: rgb(248, 192, 37);
+}
+#green {
+    color: green;
+}
