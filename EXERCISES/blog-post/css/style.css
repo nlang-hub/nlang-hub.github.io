@@ -9,11 +9,6 @@ body {
     margin: 20px;
 }
 
-.center-with-sidebar {
-    display: flex;
-    max-width: 800px;
-    margin: 24px auto;
-}
 .center-column {
     padding: 50px;
     margin: 48px auto;
