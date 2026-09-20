@@ -8,14 +8,7 @@ body {
     background-color: #fed460;
     margin: 20px;
 }
-#sidebar {
-    padding: 50px;
-    background-color: #f3bc22;
-    border: 3px solid black;
-    box-shadow: 8px 8px 16px grey;
-    border-radius: 20px;
-    display: flex;
-}
+
 .center-with-sidebar {
     display: flex;
     max-width: 800px;
@@ -23,6 +16,7 @@ body {
 }
 .center-column {
     padding: 50px;
+    margin: 48px auto;
     max-width: 800px;
     background-color: #f3bc22;
     border: 3px solid black;
