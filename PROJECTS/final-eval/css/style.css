@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Diplomata+SC&display=swap');
 * {
     box-sizing: border-box;
 }
@@ -5,4 +6,54 @@
 body {
     margin: 0px;
     font-family: sans-serif;
+}
+#teams {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: copperplate;
+    font-size: 60px;
+    margin: 0px;
+    
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+h5 {
+    font-family: "Diplomata SC", serif;
+    margin: 0px;
+    font-size: 15px;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.single-column {
+    margin: 24px auto;
+    max-width: 1000px;
+    text-align: center;
+    background-color: lightpink;
+
+}
+#steelers {
+    width: 300px;
+    
+}
+#eagles {
+    width: 400px;
+    
+}
+
+.single-column a {
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+    background-color: rgb(213, 3, 3);
+    margin: 20px;
+    border-radius: 10px;
+    margin: 20px;
 }
