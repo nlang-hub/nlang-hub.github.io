@@ -11,11 +11,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 40px;
 }
 
 h1 {
     font-family: copperplate;
-    font-size: 100px;
+    font-size: 85px;
     margin: 0px 0px;
     
 }
@@ -25,6 +26,7 @@ h2 {
 }
 p {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 h5 {
     font-family: "Diplomata SC", serif;
@@ -43,18 +45,16 @@ h3 {
     border: 10px solid black;
 }
 .single-column p {
-    padding: 50px;
+    padding: 25px;
 }
 #steelers {
     width: 300px;
-    margin-right: 50px;
+    margin-right: 60px;
     
 }
 #eagles {
-    width: 400px;
-    
+    width: 400px; 
 }
-
 a {
     text-decoration: none;
     border: 1px solid black;
@@ -67,5 +67,5 @@ a {
 }
 
 #names {
-    margin-top: 20px;
+    margin-top: 40px;
 }
