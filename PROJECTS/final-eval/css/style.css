@@ -15,9 +15,13 @@ body {
 
 h1 {
     font-family: copperplate;
-    font-size: 60px;
-    margin: 0px;
+    font-size: 100px;
+    margin: 0px 0px;
     
+}
+h2 {
+    font-size: 50px;
+    font-family: copperplate;
 }
 p {
     font-family: 'Courier New', Courier, monospace;
@@ -28,18 +32,22 @@ h5 {
     font-size: 15px;
 }
 h3 {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-family: "Diplomata SC", serif;
+    font-size: 25px;
 }
 .single-column {
     margin: 24px auto;
     max-width: 1000px;
     text-align: center;
-    background-color: lightpink;
-
+    background-color: lightgray;
+    border: 10px solid black;
+}
+.single-column p {
+    padding: 50px;
 }
 #steelers {
     width: 300px;
+    margin-right: 50px;
     
 }
 #eagles {
@@ -47,7 +55,7 @@ h3 {
     
 }
 
-.single-column a {
+a {
     text-decoration: none;
     border: 1px solid black;
     padding: 10px;
@@ -55,5 +63,9 @@ h3 {
     background-color: rgb(213, 3, 3);
     margin: 20px;
     border-radius: 10px;
-    margin: 20px;
+    margin: 40px;
+}
+
+#names {
+    margin-top: 20px;
 }
