@@ -64,10 +64,20 @@ h3 {
     .hero-content h2 {
         padding-right: 5px;
     }
+    #hero {
+        background-image: url(../images/photo-1523113501336-6ea4a7d6660d.avif);
+        height: 80vh;
+    }
 }
 @media  screen and (max-width: 1020px) {
     .hero-content h2 {
         font-size: 24px;
+    }
+}
+@media  screen and (max-width: 900px) {
+    #hero {
+        background-image: url(../images/photo-1523113501336-6ea4a7d6660d.avif);
+        height: 60vh;
     }
 }
 @media  screen and (max-width: 775px) {
