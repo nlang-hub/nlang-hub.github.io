@@ -79,6 +79,9 @@ h3 {
         background-image: url(../images/photo-1523113501336-6ea4a7d6660d.avif);
         height: 60vh;
     }
+    .hero-content h2 {
+        padding-top: 200px;
+    }
 }
 @media  screen and (max-width: 775px) {
     .hero-content h2 {
