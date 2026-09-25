@@ -10,13 +10,11 @@ body {
 #layout {
     margin: 0px auto;
     max-width: 1000px;
-    background-image: url(../);
 }
 
 .basic-grid-gallery img {
     width: 100%;
 }
-
 #navbar {
     background-color: lightgray;
     display: flex;
@@ -50,6 +48,7 @@ body {
     color: white;
     font-family: copperplate;
     padding-right: 48px;
+    font-size: 48px;
 }
 
 #hero-content a {
@@ -74,7 +73,6 @@ body {
     margin-top: 50px;
 }
 .card {
-    border: 1px solid black;
     padding: 40px;
     padding-top: 20px;
     border-radius: 10px;
@@ -85,12 +83,11 @@ body {
     font-family: copperplate;
 }
 .card a {
-    border: 1px solid black;
     text-decoration: none;
     color: white;
     background-color: gray;
     padding: 15px;
-    border-radius: 5px;
+    border-radius: 30px;
     font-family: copperplate;
 }
 #cards {
